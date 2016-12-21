@@ -1,11 +1,11 @@
-package main
+package broken
 
 import (
 	"a"
 	"b"
 )
 
-func main() {
+func broken() {
 	var it a.A
 	it = "foo"
 
